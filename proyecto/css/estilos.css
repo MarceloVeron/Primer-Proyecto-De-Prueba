@@ -3,3 +3,13 @@ body{
     text-align: center;
     font-family: cursive;
 }
+
+footer{
+
+    background-image: url(../imagenes/Warframe0000.jpg);
+    height: 500px;
+}
+footer h3{
+    color: goldenrod;
+    padding-top: 250px;
+}
