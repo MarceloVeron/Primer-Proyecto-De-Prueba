@@ -3,3 +3,12 @@ body{
     text-align: center;
     font-family: cursive;
 }
+
+header{
+    background-image: url(../imagenes/vlcsnap-2020-03-22-06h04m38s778.png);
+    height: 300px;
+}
+header h2{
+    padding-top: 50px;
+   
+}
